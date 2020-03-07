@@ -1,12 +1,12 @@
 
 body {
-  background-color: #d0e4fe;
+  background-color: #8FBC8F;
   text-align: center;
 }
 
 h1 {
   font-family: 'Lobster', cursive;
-  color: orange;
+  color: black;
 }
 
 p {
@@ -14,7 +14,7 @@ p {
   font-size: 30px;
 }
 
-#doge-image img {
+#lu-image img {
   height: 140px;
   margin-top: 20px;
 }
